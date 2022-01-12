@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suvro-Debdas
+- 👋 Hi, I’m Suvro Debdas.
 - 👀 I’m interested in Python,Sql,Django.
 - 🌱 I’m currently working as an analyst.
 - 📫 Reach me on "suvrodebdas@gmail.com".
