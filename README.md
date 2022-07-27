@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Suvro Debdas.
-- 👀 I’m interested in Python,Sql,Django.
-- 🌱 I’m currently working as an analyst.
-- 📫 Reach me on "suvrodebdas@gmail.com".
+- 👀 I’m interested in Python,Django,MySQL,JavaScript,HTML 5,CSS 3,Bootsrap 5,Frappe.
+- 🌱 I’m currently working as a Software Developer.
+- 📫 Reach me on "suvrodebdas@gmail.com"., https://www.linkedin.com/in/suvro-debdas-7542081ab/
