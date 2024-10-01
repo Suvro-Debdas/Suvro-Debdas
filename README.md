@@ -1,4 +1,4 @@
-Welcome to my github profile! I'm a Software Developer specializing in Full Stack Web Development, particularly Backend Programming. My aim is to craft innovative and efficient solutions that cater to both business needs and user satisfaction.
+Welcome to my github profile! /nI'm a Software Developer specializing in Full Stack Web Development, particularly Backend Programming. My aim is to craft innovative and efficient solutions that cater to both business needs and user satisfaction.
 Originally from India and raised in Kolkata, West Bengal, I have a penchant for long drives.
 I completed my schooling and B.Tech in Civil Engineering from Maulana Abul Kalam Azad University of Technology (WBUT), Camellia Institute of Engineering, in 2016.
 Currently, I serve as a Software Developer at BluConnect AI India Pvt. Ltd, based in Kolkata, West Bengal. Previously, I held positions as a Senior Research Analyst at Global Logic Technologies Ltd, a Hitachi Group company in Hyderabad, Telangana, and as an Assistant Engineer at SRMB Srijan Pvt. Ltd. in Kolkata, West Bengal.
